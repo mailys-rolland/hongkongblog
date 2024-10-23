@@ -1,0 +1,11 @@
+.btn-beige {
+  background-color: #E2D6C5;
+  color: rgb(50,50,50);
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
+.btn-beige:hover {
+  background-color: #96A9C2;
+  color: #F3F2DC;
+}
