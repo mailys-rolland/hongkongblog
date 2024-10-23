@@ -59,7 +59,7 @@ a {
   color: rgb(50,50,50);
   font-weight: 600;
   font-size: 14px;
-  font-weight: bolder
+  font-weight: bolder;
 }
 
 @media (max-width: 960px) {
@@ -85,5 +85,9 @@ a {
     height: 100%;
     text-color:#E2D6C5;
     font-family:'Roboto', sans-serif;
+}
+
+#site-hk {
+	text-align: center;
 }
 
